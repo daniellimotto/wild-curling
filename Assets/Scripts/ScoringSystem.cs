@@ -4,6 +4,7 @@ using UnityEngine;
 
 public class ScoringSystem : MonoBehaviour
 {
+    //test
     public Vector3 targetCenter;
     public float targetRadius = 5f;
     public float minDistanceRed = float.MaxValue;
